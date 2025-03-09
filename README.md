@@ -36,7 +36,6 @@ The dashboard provides insights into **total sales, customer trends, top-selling
 
 ### Order Trends Dashboard  
 <img src="Dash2.png">
-![Order Trends](path/to/order-trends.png)  
 
 ## Conclusion  
 This **SSAS-powered Excel dashboard** provides **comprehensive insights** into Olist's e-commerce data, helping businesses **identify trends, optimize sales strategies, and improve decision-making**.  
